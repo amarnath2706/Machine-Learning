@@ -3,3 +3,4 @@ ipykernel
 pandas
 seaborn
 openpyxl
+scikit-learn==1.2.0rc1
