@@ -2,3 +2,4 @@ numpy
 ipykernel
 pandas
 seaborn
+openpyxl
